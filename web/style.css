@@ -1,0 +1,30 @@
+.title {
+    /*padding-bottom: 21.440px;*/
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.post {
+
+}
+
+a {
+    padding-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+ol {
+
+    padding-left: 0;
+    text-align: center;
+}
+
+li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    border-radius: 5%;
+}
